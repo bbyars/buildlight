@@ -1,0 +1,6 @@
+C:\dev\buildlight\buildlight\bin\Debug\DelcomDLL.dll
+C:\dev\buildlight\buildlight\bin\Debug\buildlight.exe
+C:\dev\buildlight\buildlight\bin\Debug\buildlight.pdb
+C:\dev\buildlight\buildlight\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\buildlight\buildlight\obj\Debug\buildlight.exe
+C:\dev\buildlight\buildlight\obj\Debug\buildlight.pdb

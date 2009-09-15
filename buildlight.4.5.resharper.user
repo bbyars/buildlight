@@ -1,0 +1,167 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:DelcomDll.cs" caret="2365" fromTop="18" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="0" fromTop="0" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:IColor.cs" caret="95" fromTop="5" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="623" fromTop="13" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="390" fromTop="10" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="318" fromTop="14" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="318" fromTop="14" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="329" fromTop="21" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="1531" fromTop="34" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:DelcomDll.cs" caret="2374" fromTop="18" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="0" fromTop="0" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="1107" fromTop="28" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="1550" fromTop="34" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="1550" fromTop="29" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="874" fromTop="16" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="967" fromTop="21" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="608" fromTop="8" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="754" fromTop="5" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="276" fromTop="11" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="149" fromTop="8" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="377" fromTop="17" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="479" fromTop="22" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="583" fromTop="27" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:CompositeColor.cs" caret="0" fromTop="0" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="101" fromTop="8" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="1282" fromTop="28" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="546" fromTop="9" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="1412" fromTop="31" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="313" fromTop="8" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="13" fromTop="0" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="940" fromTop="15" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:IColor.cs" caret="95" fromTop="5" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Color.cs" caret="581" fromTop="13" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="680" fromTop="19" />
+      <File id="76B29DA3-2CB1-4F62-8D3C-5306AA82A3DB/f:Program.cs" caret="850" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="string" priority="4" />
+      <Item value="int" priority="3" />
+      <Item value="new" priority="9" />
+      <Item value="Dictionary&lt;string,int&gt;" priority="1" />
+      <Item value="private" priority="4" />
+      <Item value="if" priority="0" />
+      <Item value="args" priority="10" />
+      <Item value="return" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="Length" priority="0" />
+      <Item value="actions" priority="1" />
+      <Item value="static" priority="9" />
+      <Item value="void" priority="5" />
+      <Item value="cw" priority="2" />
+      <Item value="var" priority="2" />
+      <Item value="public" priority="9" />
+      <Item value="throw" priority="0" />
+      <Item value="ApplicationException" priority="0" />
+      <Item value="SetLed" priority="3" />
+      <Item value="Delcom" priority="5" />
+      <Item value="override" priority="0" />
+      <Item value="Color" priority="9" />
+      <Item value="params" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="colors" priority="3" />
+      <Item value="IColor" priority="11" />
+      <Item value="using" priority="1" />
+      <Item value="System" priority="1" />
+      <Item value="Linq" priority="1" />
+      <Item value="List&lt;IColor&gt;" priority="0" />
+      <Item value="color" priority="5" />
+      <Item value="Red" priority="1" />
+      <Item value="Green" priority="2" />
+      <Item value="Orange" priority="1" />
+      <Item value="typeof" priority="2" />
+      <Item value="BindingFlags" priority="2" />
+      <Item value="null" priority="2" />
+      <Item value="as" priority="1" />
+      <Item value="actionName" priority="0" />
+      <Item value="method" priority="0" />
+      <Item value="object" priority="0" />
+      <Item value="GetColor" priority="2" />
+      <Item value="GetAction" priority="0" />
+      <Item value="colorName" priority="1" />
+      <Item value="fields" priority="2" />
+      <Item value="field" priority="0" />
+      <Item value="StringComparer" priority="1" />
+      <Item value="fieldInfo" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.Dictionary`2">
+      <Item value="ContainsKey" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToLower" priority="3" />
+      <Item value="Equals" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Delcom">
+      <Item value="LEDOFF" priority="0" />
+      <Item value="LEDON" priority="0" />
+      <Item value="LEDFLASH" priority="0" />
+      <Item value="GREENLED" priority="0" />
+      <Item value="REDLED" priority="0" />
+      <Item value="BLUELED" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:buildlight.CompositeColor">
+      <Item value="colors" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:buildlight.IColor">
+      <Item value="TurnOff" priority="0" />
+      <Item value="TurnOn" priority="0" />
+      <Item value="Flash" priority="0" />
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@buildlight.Color">
+      <Item value="Red" priority="0" />
+      <Item value="Orange" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="GetFields" priority="1" />
+      <Item value="GetField" priority="0" />
+      <Item value="GetMethod" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Reflection.BindingFlags">
+      <Item value="Public" priority="1" />
+      <Item value="Static" priority="0" />
+      <Item value="Instance" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.FieldInfo">
+      <Item value="GetType" priority="0" />
+      <Item value="GetValue" priority="1" />
+      <Item value="Equals" priority="0" />
+      <Item value="Name" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Reflection.MethodInfo">
+      <Item value="Invoke" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.StringComparer">
+      <Item value="InvariantCultureIgnoreCase" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IEnumerable`1">
+      <Item value="FirstOrDefault" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
