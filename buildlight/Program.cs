@@ -13,6 +13,7 @@ namespace buildlight
                 return;
             }
 
+            Color.AllColors.Off();
             SetLed(args[0], args[1]);
         }
 
