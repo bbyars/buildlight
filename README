@@ -1,0 +1,9 @@
+1. What is buildlight
+
+buildlight is an application-layer driver for the delcom lights we use
+for build status notification.
+
+2. Examples
+
+buildlight.exe Red Flash
+buildlight.exe Green On
