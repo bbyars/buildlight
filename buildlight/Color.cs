@@ -7,11 +7,11 @@ namespace buildlight
     {
         public static IColor Green = new Color(Delcom.GREENLED);
         public static IColor Red = new Color(Delcom.REDLED);
-        public static IColor Orange = new Color(Delcom.BLUELED); // mislabeled in their code
-        public static IColor Yellow = new CompositeColor(Red, Orange);
-        public static IColor Gold = new CompositeColor(Red, Green);
-        public static IColor DarkOrange = new CompositeColor(Green, Orange);
-        public static IColor AllColors = new CompositeColor(Red, Green, Orange);
+        public static IColor Blue = new Color(Delcom.BLUELED);
+        public static IColor Pink = new CompositeColor(Red, Blue);
+        public static IColor Yellow = new CompositeColor(Red, Green);
+        public static IColor BlueGreen = new CompositeColor(Green, Blue);
+        public static IColor AllColors = new CompositeColor(Red, Green, Blue);
 
         private readonly int color;
 

@@ -27,7 +27,7 @@ namespace buildlight
         private static void PrintUsage()
         {
             Console.WriteLine("Usage: buildlight color action");
-            Console.WriteLine("\tValid colors are Green, Red, Orange, Yellow, Gold, DarkOrange, AllColors");
+            Console.WriteLine("\tValid colors are Green, Red, Blue, Pink, Yellow, BlueGreen, AllColors");
             Console.WriteLine("\tValid actions are Off, On, Flash");
         }
 
