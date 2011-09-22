@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using System.Threading;
 
 namespace buildlight
 {
@@ -37,15 +38,29 @@ namespace buildlight
 
         private void SetLed(int action)
         {
-            var deviceName = new StringBuilder(Delcom.MAXDEVICENAMELEN);
-            var result = Delcom.DelcomGetNthDevice(Delcom.USBDELVI, 0, deviceName);
-
-            if (result == 0)
-                throw new ApplicationException("Device not found!");
-
+            var deviceName = GetDeviceName();
             var deviceHandle = Delcom.DelcomOpenDevice(deviceName, 0);
             Delcom.DelcomLEDControl(deviceHandle, color, action);
             Delcom.DelcomCloseDevice(deviceHandle);
+        }
+
+        private static StringBuilder GetDeviceName()
+        {
+            var start = DateTime.Now;
+
+            do
+            {
+                var deviceName = new StringBuilder(Delcom.MAXDEVICENAMELEN);
+                var result = Delcom.DelcomGetNthDevice(Delcom.USBDELVI, 0, deviceName);
+
+                if (result != 0)
+                    return deviceName;
+
+                Console.WriteLine("Could not find device; trying again...");
+                Thread.Sleep(100);
+            } while ((DateTime.Now - start).TotalSeconds < 3);
+
+            throw new ApplicationException("Device not found");
         }
     }
 }
